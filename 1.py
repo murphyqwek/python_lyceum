@@ -41,3 +41,4 @@ for letter in word:
     
     print(f"{letter}: {morse_dic[letter]}")
     # ахахахах
+print('ツ')
