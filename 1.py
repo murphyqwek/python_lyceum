@@ -40,3 +40,4 @@ for letter in word:
     letter = letter.lower()
     
     print(f"{letter}: {morse_dic[letter]}")
+    # ахахахах
