@@ -10,5 +10,7 @@
  - Logica.py - Задание с того сайта с логикой python
 ## Сайтики
 https://codepen.io/murphyqwek/pen/bGMXmez - codepen
+
 https://qweka.wordpress.com/ - вордпрессик
+
 ![](https://ih1.redbubble.net/image.1106399396.4555/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg)
