@@ -7,5 +7,6 @@
  - Hem_code.ipynb - Код Хэмминга Jupyter notebook 
  - Нейронка.png - Скриншот Нейронка 
  - Таблица истинности.ods - Таблица истинности и задание с того сайта
+ - Logica.py - Задание с того сайта с логикой python
  
 ![](https://ih1.redbubble.net/image.1106399396.4555/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg)
