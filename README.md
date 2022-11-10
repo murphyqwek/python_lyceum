@@ -18,3 +18,9 @@ https://qweka.wordpress.com/ - вордпрессик
 ## 14 формула логики
 
 ![](https://github.com/murphyqwek/python_lyceum/blob/master/Images/lagrida_latex_editor(1).png)
+
+$$ \overline{\text{E}^{2}}_{1} = \sqrt{\frac{F\alpha^{x-1}}{(x-1) \cdot x}} + \alpha^{\frac{1}{2}}_{1} + \beta^{\frac{2}{3}}_{1}\\\\
+
+a^{3} + b^{3} = (a+b)(a^{2}+ab+b^{2})\\\\
+
+p_{n} = 1 + \sum_{i=1}^{2^{n}}\left\lfloor \left( \frac{n}{\sum_{j=1}^{i}\left\lfloor \left( \cos\frac{(j-1)! + 1}{j}\pi \right)^{2} \right\rfloor} \right) \right\rfloor^{1/n} $$
