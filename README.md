@@ -17,4 +17,4 @@ https://qweka.wordpress.com/ - вордпрессик
 
 ## 14 формула логики
 
-$$A \wedge (A \vee B) = A$$
+![](https://github.com/murphyqwek/python_lyceum/blob/master/Images/lagrida_latex_editor(1).png)
