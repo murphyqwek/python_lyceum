@@ -8,6 +8,8 @@
  - Нейронка.png - Скриншот Нейронка 
  - Таблица истинности.ods - Таблица истинности и задание с того сайта
  - Logica.py - Задание с того сайта с логикой python
+ - kashtak.py - Создание слайд шоу в python
+ - vi
 ## Сайтики
 https://codepen.io/murphyqwek/pen/bGMXmez - codepen
 
