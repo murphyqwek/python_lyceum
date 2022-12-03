@@ -28,3 +28,15 @@ $$\overline{\text{E}^{2}}_{1} = \sqrt{\frac{F\alpha^{x-1}}{(x-1) \cdot x}} + \al
 $$a^{3} + b^{3} = (a+b)(a^{2}+ab+b^{2})$$
 
 $$p_{n} = 1 + \sum_{i=1}^{2^{n}}\left\lfloor \left( \frac{n}{\sum_{j=1}^{i}\left\lfloor \left( \cos\frac{(j-1)! + 1}{j}\pi \right)^{2} \right\rfloor} \right) \right\rfloor^{1/n}$$
+
+## Mermaid
+
+```mermaid
+flowchart LR
+
+A[10 класс] -->|Аттестация| B(11 класс)
+B --> C{ЕГЭ по барьба}
+C -->|Харашо сдал| D[Теплотрасса]
+C -->|Лох не сдал| E[Армия]
+C -->|Не пришёл на ЕГЭ| F[Пересдача] --> C
+```
